@@ -1,0 +1,48 @@
+Class Diagram:
+
+	Class diagrams are the most common diagrams used in UML. 
+	Class diagram consists of classes, interfaces, associations, and collaboration. 	
+	Class diagrams basically represent the object-oriented view of a system, which is static in nature.
+	
+	
+Activity Diagram
+
+	Activity diagram describes the flow of control in a system. 
+	It consists of activities and links. 
+	The flow can be sequential, concurrent, or branched.
+	Activities are nothing but the functions of a system.
+	Numbers of activity diagrams are prepared to capture the entire flow in a system.
+	Activity diagrams are used to visualize the flow of controls in a system. 
+	This is prepared to have an idea of how the system will work when executed.
+
+Sequence Diagram
+
+	A sequence diagram is an interaction diagram. 
+	From the name, it is clear that the diagram deals with some sequences, which are the sequence of messages flowing from one object to another.
+	Interaction among the components of a system is very important from implementation and execution perspective. 
+	Sequence diagram is used to visualize the sequence of calls in a system to perform a specific functionality.
+
+Statechart Diagram
+
+	Any real-time system is expected to be reacted by some kind of internal/external events. 
+	These events are responsible for state change of the system.
+	Statechart diagram is used to represent the event driven state change of a system.
+	It basically describes the state change of a class, interface, etc.
+	State chart diagram is used to visualize the reaction of a system by internal/external factors.
+
+Object Diagram
+
+	Object diagrams can be described as an instance of class diagram. 
+	Thus, these diagrams are more close to real-life scenarios where we implement a system.
+	Object diagrams are a set of objects and their relationship is just like class diagrams.
+	They also represent the static view of the system.
+	The usage of object diagrams is similar to class diagrams but they are used to build prototype of a system from a practical perspective.
+	
+	
+Use Case Diagram
+
+	Use case diagrams are a set of use cases, actors, and their relationships.
+	They represent the use case view of a system.	
+	A use case represents a particular functionality of a system.
+	Hence, use case diagram is used to describe the relationships among the functionalities and their internal/external controllers.
+	These controllers are known as actors.
